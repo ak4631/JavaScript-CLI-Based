@@ -1,0 +1,3 @@
+1. Mouse rectangle par aaya and move hua 
+2. Mouse left gaya ya right (center se left par hai ya right par hai)
+3. Intensity ko increase karte jaao (center pe red ki Intensity 0 at end Intensity 255 center pe 255/2 applies to both side);
